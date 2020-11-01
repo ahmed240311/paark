@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "35106041654",
+    "firebase_url": "https://pure-heuristic-268022.firebaseio.com",
+    "project_id": "pure-heuristic-268022",
+    "storage_bucket": "pure-heuristic-268022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35106041654:android:8634823b6260d916630d97",
+        "android_client_info": {
+          "package_name": "com.graduationproject.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35106041654-5r2au22pr2qvfdh0i6sbh3u5dlqt3jh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqeXI6RT8_vlVZ7NaELMdX-7M2Wc4VeNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35106041654-5r2au22pr2qvfdh0i6sbh3u5dlqt3jh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
